@@ -59,7 +59,7 @@ Checkout out my [GitHub](https://github.com/riyapabari) for more...
 
 One year programme designed to develop the next generation of leaders in the social enterprise space in order to harness the power of business for good.
 
-**_MSc Investment Manageement_**, **Cass Business School** | 2008-2009
+**_MSc Investment Management_**, **Cass Business School** | 2008-2009
 
 First class distinction, Vipin Sareen scholar
 
