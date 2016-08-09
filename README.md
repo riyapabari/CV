@@ -86,7 +86,7 @@ Macroeconomic investor for institutional clients. Focussed on the monetary, fisc
 ## Interests
 
 - Team sports & board games.
-- All types of yoga (vinyasa, Hatha, Bikram, paddleboard, anti-gravity...).
+- All types of yoga (vinyasa, hatha, Bikram, paddleboard, antigravity...).
 - Teaching kids new tricks - from music to maths. Through various voluntary projects, I've worked with some amazing kids in Brazil, India & China in addition to my small platoon of cousins, nieces & nephews.
 - Raw cooking, particularly desserts.
 
