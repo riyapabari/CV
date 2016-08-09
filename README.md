@@ -77,11 +77,11 @@ Do Nation is a social tech startup that combines the best behavioural science wi
 
 Led the delivery of RBS Inspiring Social Enterprise, an initiative that aims to support social enterprises by working in partnership with the sector to improve access to expertise, markets and finance.
 
-**_Currencies & Fixed Income Portfolio Manager_**, *Wellington Management* | Aug 2012 - Jan 2015
+**_Currencies & Fixed Income Portfolio Manager_**, **Wellington Management** | Aug 2012 - Jan 2015
 
 Macroeconomic investor for institutional clients. Focussed on the monetary, fiscal and structural policy landscape for various economies, including Japan, South Korea, Singapore and Scandinavia.
 
-**_Currency Trading Associate_**, *JPMorgan* | Aug 2009 - Jun 2012
+**_Currency Trading Associate_**, **JPMorgan** | Aug 2009 - Jun 2012
 
 ## Interests
 
