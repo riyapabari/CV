@@ -1,6 +1,6 @@
 ## Riya Pabari
 
-blog, twitter, linked in
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I love re-imagining what the future could look like; what the future *should* look like. That's always my starting point, and then I like to work backwards to understand what innovations are going to get us there.
 
@@ -38,43 +38,50 @@ I'm adept at both big picture strategy and detail-oriented execution.
 
 Five years of investing in capital markets taught me the fine art of continuously balancing tactical and strategic thinking.
 
-(In case you were wondering, porpoises are aquatic marine mammals that swim through the water with undulatory locomotion.)
+*(In case you were wondering, porpoises are aquatic marine mammals that swim through the water with undulatory locomotion.)*
 
 ### Education
 
-##### *Web Developer Bootcamp*, Makers Academy (2016)
-16-week intensive coding bootcamp. Test driven development, Agile/XP methodologies, full stack.
+- **_Web Developer Bootcamp_**, **Makers Academy** | 2016
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Europe's leading full stack, 16-week, web developer bootcamp. Strong focus on software craftsmanship, test driven development, object-oriented design and agile/XP methodologies.
 
-Projects
+Projects I'm most proud of...
 
-##### *Social Enterprise Leadership Programme*, On Purpose (2015-2016)
+| Project Title | Description   | Technologies | Testing |
+| ------------- |---------------| -------------| ------- |
+| [CrowdCode](https://github.com/riyapabari/crowdcode) | A web app that enables non-technical founders to crowdsource their MVP | Ruby, Ruby on Rails, JQuery, PostgreSQL | RSpec, Capybara |
+| [Code Fish](https://code-fish.herokuapp.com/) | A web app that enables anyone learning to code to get 1:1 live help from coders across the globe | Javascript, Node.js, Express, Socket.io, MongoDB | Mocha, Chai, Zombie
+
+Checkout out my GitHub for more...
+
+- **_Social Enterprise Leadership Programme_**, **On Purpose** | 2015-2016
+
 One year programme designed to develop the next generation of leaders in the social enterprise space in order to harness the power of business for good.
 
-##### *MSc Investment Management*, Cass Business School (2008-2009)
+- **_MSc Investment Manageement_**, **Cass Business School** | 2008-2009
+
 First class distinction, Vipin Sareen scholar
 
-##### *BA Economics*, Queens' College, University of Cambridge (2005-2008)
+- **_BA Economics_**, **Queens' College, University of Cambridge** | 2005-2008
+
 First Class
 
 ### Experience
 
-##### *Business Development Manager*, Do Nation (Sep 2015 - Mar 2016)
-Do Nation is a social tech startup that combines the best behavioural science with user-friendly technology to help people form simple, sustainable habits. Worked closely with the CEO on a seed/Series A round of financing.
+- **_Business Development Manager_**, **Do Nation** | Sep 2015 - Mar 2016
 
-##### *Community Programmes Manager*, RBS (Sep 2015 - Mar 2016)
+Do Nation is a social tech startup that combines the best behavioural science with user-friendly technology to help people form simple, sustainable habits. Engaged the team in co-creating a 3-year Business Roadmap outlining the strategy towards achieving financial sustainability, focussing on product evolution, distribution channels and partnership opportunities. Worked closely with the CEO on a seed/Series A round of financing.
+
+- **_Community Programmes Manager_**, **RBS** | Mar 2015 - Sep 2015
+
 Led the delivery of RBS Inspiring Social Enterprise, an initiative that aims to support social enterprises by working in partnership with the sector to improve access to expertise, markets and finance.
 
-##### *Currencies & Fixed Income Portfolio Manager*, Wellington Management (Sep 2015 - Mar 2016)
-I made investment decisions $90B Global Bond Fund. I focussed on the monetary, fiscal and structural policy landscape for various economies, including Japan, South Korea, Singapore and Scandinavia.
+- **_Currencies & Fixed Income Portfolio Manager_**, *Wellington Management* | Aug 2012 - Jan 2015
 
-##### *Currency Trading Associate*, JPMorgan (Sep 2015 - Mar 2016)
+Macroeconomic investor for institutional clients. Focussed on the monetary, fiscal and structural policy landscape for various economies, including Japan, South Korea, Singapore and Scandinavia.
+
+- **_Currency Trading Associate_**, *JPMorgan* | Aug 2009 - Jun 2012
 
 
 ### Interests
@@ -83,3 +90,5 @@ I made investment decisions $90B Global Bond Fund. I focussed on the monetary, f
 - All types of yoga (vinyasa, Hatha, Bikram, paddleboard, anti-gravity...).
 - Teaching kids new tricks - from music to maths. Through various voluntary projects, I've worked with some amazing kids in Brazil, India & China in addition to my small platoon of cousins, nieces & nephews.
 - Raw cooking, particularly desserts.
+
+[GitHub](https://github.com/riyapabari) | [LinkedIn](https://uk.linkedin.com/in/riyapabari) | [Twitter](https://twitter.com/riya_pabari) | [Blog](https://medium.com/@riya_pabari)
